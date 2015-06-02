@@ -17,6 +17,7 @@
             <enum name="anchored" value="2" />
             <enum name="hidden" value="3" />
         </attr>
+        <attr name="scrollView" format="reference" />
     </declare-styleable>
 
 </resources>
